@@ -1,0 +1,23 @@
+{
+  "name": "cleanblog",
+  "version": "1.0.0",
+  "description": "\"# CleanBlog\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efecanbaran/CleanBlog.git"
+  },
+  "author": "Efecan Baran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efecanbaran/CleanBlog/issues"
+  },
+  "homepage": "https://github.com/efecanbaran/CleanBlog#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
